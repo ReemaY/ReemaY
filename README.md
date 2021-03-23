@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReemaY
 - 👀 I’m interested in python and sql
 - 🌱 I’m currently learning different libraries of python 
-- 💞️ I’m looking to collaborate on exploring data by different means
+- 💞️ I’m looking to collaborate on exploring/experimenting data by different means
 - 📫 How to reach me yadav.ree@northeastern.edu
 
 <!---
