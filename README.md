@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reema
-- 👀 Interested in Python, SQL and ETL
-- 🌱 Currently learning different libraries of python 
+- 👀 rying to make a mark in the world of Deep Learning and AI
+- 🌱 Currently learning different transformers of python 
 - 💞️ Looking to collaborate on exploring/experimenting data by different means
 - 📫 Reach me at yadav.ree@northeastern.edu
 
