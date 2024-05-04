@@ -22,8 +22,8 @@
 ReemaY/ReemaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Please contact me if you have any opportunities, or want to collaborate on any ML/NLP/AI project,and feel free to ask any questions 
-you may have about my experience and qualifications via my email at reemayadav1702@gmail.com
+Please contact me if you have any opportunities, or want to collaborate on any ML/NLP/AI project,and feel free to ask any <br> 
+questions you may have about my experience and qualifications via my email at reemayadav1702@gmail.com
 
 - Linkedin : https://www.linkedin.com/in/reemy/
   
